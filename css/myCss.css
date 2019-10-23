@@ -1,0 +1,17 @@
+.container{
+    height: auto;
+}
+h1{
+    text-align: center;
+    color: dodgerblue;
+}
+h4{
+color: gray;
+}
+img{
+height: 100px;
+}
+row{
+    height: 300px;
+    border: 1px solid black;
+}
