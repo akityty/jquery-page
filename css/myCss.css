@@ -1,17 +1,96 @@
-.container{
+.container {
     height: auto;
 }
-h1{
+
+h1 {
     text-align: center;
     color: dodgerblue;
 }
-h4{
-color: gray;
+
+h4 {
+    color: gray;
 }
-img{
-height: 100px;
+
+img {
+    height: 100px;
 }
-row{
+
+row {
     height: 300px;
     border: 1px solid black;
+}
+
+div {
+    float: left;
+}
+
+.jquery-list {
+    float: none;
+    margin: 2px;
+    display: block;
+    background-color: #00072d;
+}
+
+.jquery-list a {
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+    line-height: 1.5;
+    letter-spacing: .25px;
+    margin: 5px;
+    padding: 2px;
+}
+
+.panel-heading p {
+    font-family: fantasy;
+    font-size: 20px;
+    color: darkred;
+    line-height: 1.5;
+    letter-spacing: .25px;
+}
+
+textarea {
+    resize: none;
+    width: 600px;
+    height: 200px;
+    display: block;
+}
+table {
+    margin: 10px;
+    padding: 10px;
+    font-family:  verdana,arial,sans-serif;
+    font-size:20px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+}
+table th {
+    margin: 8px;
+    padding: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #dedede;
+}
+table td {
+    margin: 5px;
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: aquamarine;
+}
+.footer{
+    float: none;
+    bottom: 0;
+}
+.syntaxhighlighter {
+    width: 100% !important;
+    margin: 1em 0 1em 0 !important;
+    padding: 1em 0;
+    position: relative !important;
+    overflow: auto !important;
+    font-size: 1em !important;
+    background: #eee;
 }

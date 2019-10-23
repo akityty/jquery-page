@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25d22fb2-a47f-448f-ae86-76ffba0089f9" name="Default Changelist" comment="" />
+    <list default="true" id="25d22fb2-a47f-448f-ae86-76ffba0089f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/myCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/append.html" beforeDir="false" afterPath="$PROJECT_DIR$/append.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/attr.html" beforeDir="false" afterPath="$PROJECT_DIR$/attr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/each.html" beforeDir="false" afterPath="$PROJECT_DIR$/each.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/fadeIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/fadeIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/fadeOut.html" beforeDir="false" afterPath="$PROJECT_DIR$/fadeOut.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/hide.html" beforeDir="false" afterPath="$PROJECT_DIR$/hide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/off.html" beforeDir="false" afterPath="$PROJECT_DIR$/off.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/on.html" beforeDir="false" afterPath="$PROJECT_DIR$/on.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/prepend.html" beforeDir="false" afterPath="$PROJECT_DIR$/prepend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/slideDown.html" beforeDir="false" afterPath="$PROJECT_DIR$/slideDown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/slideUp.html" beforeDir="false" afterPath="$PROJECT_DIR$/slideUp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/toggle.html" beforeDir="false" afterPath="$PROJECT_DIR$/toggle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle-pages/val.html" beforeDir="false" afterPath="$PROJECT_DIR$/val.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +41,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SaaXn36Zdd8bKKdummrsi5yPIf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/picture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/handle-pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/handle-pages" />
-      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/picture" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/picture" />
-      <recent name="$PROJECT_DIR$/handle-pages" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/handle-pages" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,11 +87,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571804202549</updated>
-      <workItem from="1571804204005" duration="2192000" />
+      <workItem from="1571804204005" duration="6135000" />
+      <workItem from="1571815753461" duration="112000" />
+      <workItem from="1571815883916" duration="32000" />
+      <workItem from="1571815959313" duration="7892000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
